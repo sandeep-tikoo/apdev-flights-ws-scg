@@ -1,0 +1,10 @@
+{
+    "inputMessageMetadata": {
+        "inboundProperties": {
+            "http.listener.path": {}
+        }
+    },
+    "outputMessageMetadata": {},
+    "id": "ef10996f-6a32-4a27-b1b8-e1f7152a6736",
+    "version": "5.2.0.0"
+}

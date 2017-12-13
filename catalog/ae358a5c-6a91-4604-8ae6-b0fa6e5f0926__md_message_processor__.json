@@ -1,0 +1,16 @@
+{
+    "inputMessageMetadata": {
+        "messagePayload": {
+            "connectorName": "#_custom_mule_metadata_type_#",
+            "typeId": "united_json"
+        }
+    },
+    "outputMessageMetadata": {
+        "messagePayload": {
+            "connectorName": "#_custom_mule_metadata_type_#",
+            "typeId": "fights_json"
+        }
+    },
+    "id": "ae358a5c-6a91-4604-8ae6-b0fa6e5f0926",
+    "version": "5.2.0.0"
+}

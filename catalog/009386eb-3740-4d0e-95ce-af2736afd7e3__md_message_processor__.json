@@ -1,0 +1,11 @@
+{
+    "inputMessageMetadata": {},
+    "outputMessageMetadata": {
+        "messagePayload": {
+            "connectorName": "#_custom_mule_metadata_type_#",
+            "typeId": "fights_json"
+        }
+    },
+    "id": "009386eb-3740-4d0e-95ce-af2736afd7e3",
+    "version": "5.2.0.0"
+}
